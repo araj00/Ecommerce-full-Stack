@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 Dockerfile
 .env
+node_modules
 .dockerignore
